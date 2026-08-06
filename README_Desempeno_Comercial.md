@@ -29,7 +29,7 @@ Se utilizó un dataset de ventas con 12 columnas (numéricas, numéricas decimal
 
 ## 📊 Dashboard
 
-🔗 [Ver dashboard interactivo en Power BI](#) <!-- Reemplaza con tu link de Power BI Service -->
+🔗 [Ver dashboard interactivo en Power BI](https://app.powerbi.com/groups/me/reports/1a51b5a5-c77d-481a-80a6-b6b020541f47/13e843ad1110925b6610?experience=power-bi)
 
 ![Vista Overview del dashboard](images/dashboard_overview.png)
 ![Vista Detalle del dashboard](images/dashboard_detalle.png)
