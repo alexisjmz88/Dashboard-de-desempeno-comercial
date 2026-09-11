@@ -6,7 +6,7 @@
 
 Empresa: **Andes Retail Group**
 
-Este repositorio contiene el dashboard de desempeño comercial desarrollado en Power BI durante el Sprint 10, con el objetivo de analizar la evolución de ingresos, pedidos y rentabilidad de la empresa durante 2024–2025.
+Este repositorio contiene los hallazgos realizados con la generación de un dashboard de desempeño comercial desarrollado en Power BI con los datos de ingresos de una empresa de comercio al retail, con el objetivo de analizar la evolución de ingresos, pedidos y rentabilidad de la empresa durante 2024–2025.
 
 ## 📋 Descripción
 
