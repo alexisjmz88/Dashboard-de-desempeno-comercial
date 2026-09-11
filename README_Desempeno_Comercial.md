@@ -8,19 +8,6 @@ Empresa: **Andes Retail Group**
 
 Este repositorio contiene el dashboard de desempeño comercial desarrollado en Power BI durante el Sprint 10, con el objetivo de analizar la evolución de ingresos, pedidos y rentabilidad de la empresa durante 2024–2025.
 
-## 📑 Tabla de contenidos
-
-- [Descripción](#-descripción)
-- [Dashboard](#-dashboard)
-- [Tech stack](#-tech-stack)
-- [Estructura del repositorio](#-estructura-del-repositorio)
-- [Diccionario de datos](#-diccionario-de-datos)
-- [Diseño del dashboard](#-diseño-del-dashboard)
-- [Resultados clave](#-resultados-clave)
-- [Limitaciones](#-limitaciones)
-- [Próximos pasos](#-próximos-pasos)
-- [Licencia](#-licencia)
-
 ## 📋 Descripción
 
 El objetivo de este proyecto fue construir un dashboard ejecutivo que responda a la pregunta: **¿cómo ha evolucionado el ingreso total entre 2024 y 2025, y a qué se deben sus principales variaciones?**
@@ -41,22 +28,6 @@ Se utilizó un dataset de ventas con 12 columnas (numéricas, numéricas decimal
 - **Power BI Desktop / Power BI Service** — modelado de datos y visualización
 - **Power Query** — limpieza y transformación (formato de fecha, tipos de dato, columna condicional)
 - **DAX** — medidas de ingresos totales, utilidad bruta y ticket promedio
-
-## 📁 Estructura del repositorio
-
-```
-desempeno-comercial-dashboard/
-├── README.md
-├── data/
-│   └── raw/
-│       └── ventas_2024_2025.xlsx
-├── dashboard/
-│   └── desempeno_comercial.pbix
-├── images/
-│   ├── dashboard_overview.png
-│   └── dashboard_detalle.png
-└── LICENSE
-```
 
 ## 📊 Diccionario de datos
 
@@ -91,8 +62,6 @@ desempeno-comercial-dashboard/
 
 ## 🔑 Resultados clave
 
-Narrativa construida con el modelo **SCQA** (Situación, Complicación, Pregunta, Respuesta):
-
 - El ingreso muestra un comportamiento cíclico a lo largo del año, con caídas claras en ciertos periodos.
 - Al segmentar por estación, se identificó que la caída de ingresos ocurre de forma consistente durante el **invierno**.
 - La causa principal **no es una menor cantidad de pedidos**, sino un **ticket promedio de compra significativamente más bajo** durante esa temporada.
@@ -107,7 +76,3 @@ Narrativa construida con el modelo **SCQA** (Situación, Complicación, Pregunta
 
 - Investigar los factores detrás del menor ticket promedio en invierno (categoría de producto, descuentos, comportamiento por segmento)
 - Incorporar un análisis de rentabilidad por categoría de producto y segmento de cliente
-
-## 📄 Licencia
-
-Este proyecto se comparte bajo la licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
